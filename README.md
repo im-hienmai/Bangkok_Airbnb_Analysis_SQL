@@ -1,6 +1,7 @@
 # Bangkok Airbnb Analysis Using SQL
 
 The analysis shows how Airbnb is utilized in Bangkok. I have analyzed Boston Airbnb listings 28 March, 2023. The dataset used in the analysis reports the listing activities of homestays in Bangkok. 
+Data from http://insideairbnb.com/get-the-data/
 
 ## File Descriptions
 Boston Airbnb data includes 3 files: can be downloaded be clicking the file name
